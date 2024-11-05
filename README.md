@@ -17,8 +17,8 @@
 defmodule Skills do
   def tech_stack do
     %{
-      languages: ["Python", "Rust", "Elixir"],
-      frameworks: ["Phoenix", "FastAPI", "Actix"],
+      languages: ["Elixir", "Python", "Ruby", "Rust"],
+      frameworks: ["Phoenix", "Rails", "FastAPI", "Actix"],
       databases: ["PostgreSQL", "Redis", "MongoDB"],
       tools: ["Docker", "Git", "CI/CD"],
       architecture: ["Microservices", "Event-Driven", "DDD"]
@@ -33,10 +33,11 @@ I'm passionate about contributing to open-source projects. Here are some of my n
 
 - [**Elixir**](https://github.com/elixir-lang/elixir/pulls?q=is%3Apr+author%3Adkuku): Core language improvements
 - [**Ecto**](https://github.com/elixir-ecto/ecto/pulls?q=is%3Apr+author%3Adkuku): Database wrapper and query generator
-- [**Ecto SQL**](https://github.com/elixir-ecto/ecto_sql/pulls?q=is%3Apr+author%3Adkuku): SQL adapters for Ecto
-- [**Unleash Ex**](PLACEHOLDER_LINK): Feature toggle client for Elixir
-- [**pgcli**](PLACEHOLDER_LINK): PostgreSQL CLI with auto-completion
-- [**sqlformat-rs**](PLACEHOLDER_LINK): SQL formatting library in Rust
+- [**Postgrex**](https://github.com/elixir-ecto/postgrex/pulls?q=is%3Apr+author%3Adkuku): SQL adapters for Ecto
+- [**Unleash Ex**](https://gitlab.com/afontaine/unleash_ex/): Feature toggle client for Elixir
+- [**pgcli**](https://github.com/dbcli/pgcli): PostgreSQL CLI with auto-completion
+- [**searxng**](https://github.com/searxng/searxng/pulls?q=is%3Apr+author%3Adkuku): Privacy-respecting, hackable metasearch engine
+- [**sqlformat-rs**](https://github.com/shssoichiro/sqlformat-rs/pulls?q=is%3Apr+author%3Adkuku): SQL formatting library in Rust
 
 ### 📊 GitHub Stats
 
