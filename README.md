@@ -51,13 +51,14 @@ I'm passionate about contributing to open-source projects. Here are some of my n
 
 ### 🌱 Current Focus
 
-- Building scalable distributed systems
 - Contributing to Elixir ecosystem
 - Exploring Rust for performance-critical components
 - Writing technical articles on [dev.to/dkuku](https://dev.to/dkuku)
 - Publishing Elixir packages on [hex.pm/users/dkuku](https://hex.pm/users/dkuku)
+- Experiments in livebook [https://notes.club/search?q=dkuku][https://notes.club/search?q=dkuku]
 
 ### 📝 Latest Blog Posts
+TODO
 <!-- BLOG-POST-LIST:START -->
 <!-- This section can be automated with GitHub Actions to fetch your latest dev.to posts -->
 <!-- BLOG-POST-LIST:END -->
